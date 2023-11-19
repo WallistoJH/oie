@@ -1,1 +1,17 @@
 
+/*
+Copyright (c) 2023 Yu Jae-wan, with Reserved Font Name OIE.
+https://github.com/orioncactus/pretendard
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+http://scripts.sil.org/OFL
+*/
+
+
+ @font-face {
+	font-family: 'OIE';
+	font-style: normal;
+	font-weight: 400;
+	src: url('https://cdn.jsdelivr.net/gh/jaewanyu/oie@master/font/OIE.woff') format ('woff');
+  }
